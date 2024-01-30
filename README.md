@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-My name is Fernando Peralta, I'm a System Analyst student and Web developer.
+My name is Fernando Peralta, I'm a System Analyst and Web developer. 
+I'm working in National Registry of People (Argentina).
 
 <!--
 **fer-peralta/fer-peralta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
