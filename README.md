@@ -56,7 +56,7 @@
 
 - 💼 [LinkedIn](https://linkedin.com/in/ferperalta)
 - 🐙 [GitHub](https://github.com/fer-peralta)
-- 📧 Email: `ferperalta.dev@gmail.com` *(ajustalo si querés)*
+- 📧 Email: `ferperalta.dev@gmail.com`
 
 ---
 
